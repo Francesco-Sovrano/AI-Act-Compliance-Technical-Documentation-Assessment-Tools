@@ -1,0 +1,66 @@
+question;answer
+Does the documentation include a general description stating the intended purpose of the AI system?;Yes
+Are the persons or teams responsible for developing the AI system clearly identified?;Yes
+Is the date and version of the system provided?;Yes
+Is there information on how the AI system interacts with hardware or software that is not part of the AI system itself, where applicable?;Yes
+Are the versions of relevant software or firmware listed?;Yes
+Are there any requirements related to version updates?;Yes
+Does the documentation describe all forms in which the AI system is placed on the market or put into service?;Yes
+Is the hardware on which the AI system is intended to run described?;Yes
+If applicable, are there photographs or illustrations available that show the external features, marking, and internal layout of products in which the AI system is a component?;No
+Are there instructions for users on how to use the AI system?;Yes
+Where applicable, are installation instructions provided?;Yes
+Does the documentation describe the methods and steps performed for the development of the AI system?;Yes
+Are there sections detailing the use of any pre-trained systems or third-party tools?;Yes
+Are the design specifications, including the general logic and algorithms, clearly outlined?;Yes
+Are trade-offs in the technical solutions, such as accuracy vs. speed or privacy vs. functionality, clearly documented?;Yes
+Is the system architecture, including software component interactions, explained?;Yes
+Is there information about the computational resources used in different phases like development, training, testing, and validation?;Yes
+Are the data requirements including datasheets, training methodologies, and data sets described?;Yes
+Is there an assessment of human oversight measures as per Article 14?;Yes
+Does the technical documentation indicate that the high-risk AI system is designed and developed to be effectively overseen by natural persons?;Yes
+Does the documentation specify how human oversight aims to prevent or minimize risks to health, safety, or fundamental rights?;Yes
+Are the measures for human oversight identified and built into the high-risk AI system by the provider, or are they identified as appropriate to be implemented by the user?;Provider
+Are these measures designed to enable individuals to understand the capacities and limitations of the AI system?;Yes
+Do the human oversight measures help individuals detect and address signs of anomalies, dysfunctions, and unexpected performance as soon as possible?;Yes
+Are measures in place to ensure individuals remain aware of the possible tendency of automatically relying or over-relying on the output produced by the high-risk AI system?;Yes
+Do the measures enable individuals to correctly interpret the high-risk AI system’s output?;Yes
+Can individuals decide not to use the high-risk AI system, or otherwise disregard, override, or reverse the output of the AI system?;Yes
+"Is there a provision for individuals to intervene on the operation of the high-risk AI system or to interrupt the system, such as through a ""stop"" button or a similar procedure?";Yes
+For systems identified in point 1(a) of Annex III, does the human oversight measure ensure that no action or decision is taken based on the AI system's identification unless verified and confirmed by at least two natural persons?;No
+Does the documentation describe any pre-determined changes to the system and its performance?;Yes
+Are validation and testing procedures clearly defined, along with used metrics and test logs?;Yes
+Does the documentation detail the capabilities and limitations of the AI system?;Yes
+Is there information on the degrees of accuracy for specific target groups?;Yes
+Are foreseeable unintended outcomes and risks, including to health and safety and fundamental rights, described?;Yes
+Are technical measures for human oversight outlined?;Yes
+Are specifications on input data provided?;Yes
+Is there evidence that a risk management system has been established, implemented, documented, and maintained for high-risk AI systems?;Yes
+Does the documentation indicate that the risk management system is a continuous iterative process run throughout the entire lifecycle of the high-risk AI system?;Yes
+Is there a provision for regular systematic updates?;Yes
+Are known and foreseeable risks associated with the high-risk AI system identified and analyzed?;Yes
+Are risks estimated and evaluated both for intended use and conditions of reasonably foreseeable misuse?;Yes
+Does the risk management system include evaluation of risks based on data gathered from post-market monitoring?;Yes
+Are suitable risk management measures adopted?;Yes
+Do the risk management measures consider the effects and possible interactions resulting from combined application requirements?;Yes
+Do the risk management measures reflect the generally acknowledged state of the art?;Yes
+Is there a judgment on the acceptability of any residual risks?;No
+Are residual risks communicated to the user?;Yes
+Does the documentation show evidence of elimination or reduction of risks through adequate design and development?;Yes
+Are mitigation and control measures implemented for risks that cannot be eliminated?;Yes
+Is there provision for adequate information pursuant to Article 13, especially regarding risks?;Yes
+Where appropriate, is training provided to users?;Yes
+Is due consideration given to the technical knowledge, experience, education, and training expected from the user and the environment where the system will be used?;Yes
+Are high-risk AI systems tested to identify the most appropriate risk management measures?;Yes
+Do testing procedures ensure consistent performance and compliance?;Yes
+Are testing procedures suitable for the intended purpose?;Yes
+Are testing procedures performed at appropriate times, including before market placement?;yes
+Are metrics and probabilistic thresholds defined preliminarily?;Yes
+Is specific consideration given to whether the high-risk AI system is likely to be accessed by or impact children?;Yes
+If the AI system is for credit institutions regulated by Directive 2013/36/EU, does it adhere to the risk management procedures pursuant to Article 74 of that Directive?;yes
+Does the documentation describe any changes made to the system throughout its lifecycle?;yes
+Is there a list of applied harmonized standards?;Yes
+If no harmonized standards are applied, is there a description of the solutions adopted to meet the requirements?;Yes
+Is a copy of the EU declaration of conformity included in the documentation?;Yes
+Is there a detailed description of the system to evaluate the AI system's performance in the post-market phase?;Yes
+Does the description of the system to evaluate the AI system's performance include a post-market monitoring plan as referred to in Article 61(3)?;Yes

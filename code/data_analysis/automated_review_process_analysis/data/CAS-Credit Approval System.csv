@@ -1,0 +1,66 @@
+Question,GPT-3.5,GPT-4,DoXpert,Expected Output
+"Where appropriate, is training provided to users?",1,0,0,0
+"Where applicable, are installation instructions provided?",1,0,0,0
+"Is there provision for adequate information pursuant to Article 13, especially regarding risks?",1,0,1,0
+Is there information on the degrees of accuracy for specific target groups?,1,0,0,0
+"Is there information on how the AI system interacts with hardware or software that is not part of the AI system itself, where applicable?",1,0,0,0
+"Is there information about the computational resources used in different phases like development, training, testing, and validation?",1,0,1,1
+"Is there evidence that a risk management system has been established, implemented, documented, and maintained for high-risk AI systems?",1,0,1,0
+Is there an assessment of human oversight measures as per Article 14?,1,0,0,0
+Is there a provision for regular systematic updates?,1,0,1,1
+"Is there a provision for individuals to intervene on the operation of the high-risk AI system or to interrupt the system, such as through a ""stop"" button or a similar procedure?",1,0,0,0
+Is there a list of applied harmonized standards?,1,0,0,0
+Is there a judgment on the acceptability of any residual risks?,1,0,0,0
+Is there a detailed description of the system to evaluate the AI system's performance in the post-market phase?,1,1,1,1
+"Is the system architecture, including software component interactions, explained?",1,0,0,1 (not well)
+Is the hardware on which the AI system is intended to run described?,1,1,1,1
+Is the date and version of the system provided?,1,0,0,0
+Is specific consideration given to whether the high-risk AI system is likely to be accessed by or impact children?,1,0,0,0
+"Is due consideration given to the technical knowledge, experience, education, and training expected from the user and the environment where the system will be used?",1,1,0,1 (partial)
+Is a copy of the EU declaration of conformity included in the documentation?,1,0,0,0
+"If the AI system is for credit institutions regulated by Directive 2013/36/EU, does it adhere to the risk management procedures pursuant to Article 74 of that Directive?",1,0,0,0
+"If no harmonized standards are applied, is there a description of the solutions adopted to meet the requirements?",1,1,0,0
+"If applicable, are there photographs or illustrations available that show the external features, marking, and internal layout of products in which the AI system is a component?",1,0,0,0
+"For systems identified in point 1(a) of Annex III, does the human oversight measure ensure that no action or decision is taken based on the AI system's identification unless verified and confirmed by at least two natural persons?",1,0,0,0
+Does the technical documentation indicate that the high-risk AI system is designed and developed to be effectively overseen by natural persons?,1,1,1,1
+Does the risk management system include evaluation of risks based on data gathered from post-market monitoring?,1,0,1,1
+"Does the documentation specify how human oversight aims to prevent or minimize risks to health, safety, or fundamental rights?",1,0,0,0
+Does the documentation show evidence of elimination or reduction of risks through adequate design and development?,1,1,1,1
+Does the documentation indicate that the risk management system is a continuous iterative process run throughout the entire lifecycle of the high-risk AI system?,1,0,1,0 (no risk management system employed)
+Does the documentation include a general description stating the intended purpose of the AI system?,1,1,1,1
+Does the documentation detail the capabilities and limitations of the AI system?,1,1,1,1 (maybe the limitations not explicitly though)
+Does the documentation describe the methods and steps performed for the development of the AI system?,1,1,1,1
+Does the documentation describe any pre-determined changes to the system and its performance?,1,0,1,1
+Does the documentation describe any changes made to the system throughout its lifecycle?,1,0,1,0
+Does the documentation describe all forms in which the AI system is placed on the market or put into service?,1,0,0,0
+Does the description of the system to evaluate the AI system's performance include a post-market monitoring plan as referred to in Article 61(3)?,1,1,1,1
+Do the risk management measures reflect the generally acknowledged state of the art?,1,1,1,0 (no risk management system employed)
+Do the risk management measures consider the effects and possible interactions resulting from combined application requirements?,1,0,0,0
+Do the measures enable individuals to correctly interpret the high-risk AI system’s output?,1,1,1,1
+"Do the human oversight measures help individuals detect and address signs of anomalies, dysfunctions, and unexpected performance as soon as possible?",1,0,1,1
+Do testing procedures ensure consistent performance and compliance?,1,0,1,1
+"Can individuals decide not to use the high-risk AI system, or otherwise disregard, override, or reverse the output of the AI system?",1,0,0,0
+"Are validation and testing procedures clearly defined, along with used metrics and test logs?",1,0,1,1
+"Are trade-offs in the technical solutions, such as accuracy vs. speed or privacy vs. functionality, clearly documented?",1,0,0,0
+Are these measures designed to enable individuals to understand the capacities and limitations of the AI system?,1,1,1,1
+Are there sections detailing the use of any pre-trained systems or third-party tools?,1,1,1,1
+Are there instructions for users on how to use the AI system?,1,1,0,0
+Are there any requirements related to version updates?,1,0,1,1
+Are the versions of relevant software or firmware listed?,1,0,0,1 (partly)
+Are the persons or teams responsible for developing the AI system clearly identified?,1,0,0,0
+"Are the measures for human oversight identified and built into the high-risk AI system by the provider, or are they identified as appropriate to be implemented by the user?",1,1,1,1
+"Are the design specifications, including the general logic and algorithms, clearly outlined?",1,1,1,1 (partly)
+"Are the data requirements including datasheets, training methodologies, and data sets described?",1,1,1,1
+Are testing procedures suitable for the intended purpose?,1,0,1,1
+"Are testing procedures performed at appropriate times, including before market placement?",1,0,1,1
+Are technical measures for human oversight outlined?,1,1,1,1 (in a fragmented way)
+Are suitable risk management measures adopted?,1,0,1,0
+Are specifications on input data provided?,1,1,1,1
+Are risks estimated and evaluated both for intended use and conditions of reasonably foreseeable misuse?,1,0,0,0
+Are residual risks communicated to the user?,1,0,0,0
+Are mitigation and control measures implemented for risks that cannot be eliminated?,1,0,1,1
+Are metrics and probabilistic thresholds defined preliminarily?,1,0,0,1 (no mention of the thresholds)
+Are measures in place to ensure individuals remain aware of the possible tendency of automatically relying or over-relying on the output produced by the high-risk AI system?,1,0,1,0
+Are known and foreseeable risks associated with the high-risk AI system identified and analyzed?,1,0,1,1 (poorly analysed)
+Are high-risk AI systems tested to identify the most appropriate risk management measures?,1,0,1,1
+"Are foreseeable unintended outcomes and risks, including to health and safety and fundamental rights, described?",1,0,0,0

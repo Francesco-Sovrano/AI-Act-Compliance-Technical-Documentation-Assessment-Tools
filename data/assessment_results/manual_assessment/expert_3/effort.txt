@@ -1,0 +1,3 @@
+effort:
+- 2h for the credit approval system
+- 2h for the medical expenditure predictor

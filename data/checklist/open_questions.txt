@@ -1,0 +1,65 @@
+What is the intended purpose of the AI system?
+Who are the persons or teams responsible for developing the AI system?
+What is the date and version of the system?
+How does the AI system interact with hardware or software that is not part of the AI system itself?
+What versions of relevant software or firmware are used?
+What requirements are related to version updates?
+What are all forms in which the AI system is placed on the market or put into service?
+What is the hardware on which the AI system is intended to run?
+Are there photographs or illustrations that show the external features, marking, and internal layout of products that include the AI system?
+What are the instructions for users on how to use the AI system?
+What are the installation instructions?
+What methods and steps were performed for the development of the AI system?
+What are the pre-trained systems or third-party tools used?
+What are the design specifications, including the general logic and algorithms?
+What are the trade-offs in the technical solutions, such as accuracy vs. speed or privacy vs. functionality?
+What is the system architecture, including software component interactions?
+What computational resources are used in different phases like development, training, testing, and validation?
+What are the data requirements, including datasheets, training methodologies, and data sets?
+How are human oversight measures assessed as per Article 14?
+Is the high-risk AI system designed and developed to be effectively overseen by natural persons?
+How does human oversight aim to prevent or minimize risks to health, safety, or fundamental rights?
+Are the measures for human oversight built into the high-risk AI system by the provider, or are they intended to be implemented by the user?
+How are individuals enabled to understand the capacities and limitations of the AI system?
+How do human oversight measures help individuals detect and address signs of anomalies, dysfunctions, and unexpected performance promptly?
+What measures ensure individuals remain aware of the tendency to automatically rely or over-rely on the output produced by the high-risk AI system?
+How are individuals enabled to correctly interpret the high-risk AI system’s output?
+Can individuals decide not to use the high-risk AI system, or otherwise disregard, override, or reverse the output of the AI system?
+Is there a way for individuals to intervene in the operation of the high-risk AI system, such as through a "stop" button or similar procedure?
+For systems identified in point 1(a) of Annex III, does the human oversight measure ensure that no action or decision is taken based on the AI system's identification unless verified and confirmed by at least two natural persons?
+What are the pre-determined changes to the system and its performance?
+What are the validation and testing procedures, metrics used, and test logs?
+What are the capabilities and limitations of the AI system?
+What are the degrees of accuracy for specific target groups?
+What are the foreseeable unintended outcomes and risks, including to health, safety, and fundamental rights?
+What are the technical measures for human oversight?
+What specifications are provided on input data?
+Is there evidence of an established, implemented, documented, and maintained risk management system for high-risk AI systems?
+Is the risk management system a continuous iterative process run throughout the entire lifecycle of the high-risk AI system?
+Is there a provision for regular systematic updates?
+What are the known and foreseeable risks associated with the high-risk AI system?
+How are risks estimated and evaluated for both intended use and reasonably foreseeable misuse?
+Does the risk management system include evaluation of risks based on post-market monitoring data?
+What are the adopted risk management measures?
+Do the risk management measures consider the effects and possible interactions from combined application requirements?
+Do the risk management measures reflect the generally acknowledged state of the art?
+Is there a judgment on the acceptability of any residual risks?
+Are residual risks communicated to the user?
+Is there evidence of elimination or reduction of risks through adequate design and development?
+What are the mitigation and control measures for risks that cannot be eliminated?
+Is there adequate information provided, especially regarding risks, pursuant to Article 13?
+Is training provided to users, where appropriate?
+Is consideration given to the technical knowledge, experience, education, and training expected from the user and the environment where the system will be used?
+How are high-risk AI systems tested to identify the most appropriate risk management measures?
+Do testing procedures ensure consistent performance and compliance?
+Are testing procedures suitable for the intended purpose?
+Are testing procedures performed at appropriate times, including before market placement?
+Are metrics and probabilistic thresholds preliminarily defined?
+Is specific consideration given to whether the high-risk AI system is likely to be accessed by or impact children?
+If the AI system is for credit institutions, does it adhere to risk management procedures pursuant to Article 74 of Directive 2013/36/EU?
+What changes have been made to the system throughout its lifecycle?
+Is there a list of applied harmonized standards?
+If no harmonized standards are applied, what solutions were adopted to meet requirements?
+Is a copy of the EU declaration of conformity included?
+Is there a detailed evaluation of the AI system's performance in the post-market phase?
+Does the description of the system to evaluate the AI system's performance include a post-market monitoring plan as referred to in Article 61(3)?
