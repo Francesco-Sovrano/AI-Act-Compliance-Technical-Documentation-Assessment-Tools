@@ -126,3 +126,21 @@ After setting up the environment, you can run the automated assessments using:
 ## Conclusion
 
 We hope this repository serves as a valuable resource for AI practitioners aiming to align their AI systems with the AI Act's requirements. Feedback and contributions are always welcome!
+
+## Citations
+This code and data are free to use. If you use them anywhere, please cite us:
+```
+@article{sovrano2025CompliantDocumentationAIAct,
+  title={Simplifying Software Compliance: AI Technologies in Drafting Technical Documentation for the AI Act},
+  author={Sovrano, Francesco and Hine, Emmie and Anzolut, Stefano and Bacchelli, Alberto},
+  year={2025},
+  journal={Empirical Software Engineering},
+  publisher={Springer}
+}
+```
+
+Thank you!
+
+## Support
+
+For any problem or question, please contact me at `cesco.sovrano@gmail.com`
